@@ -5,6 +5,9 @@ A real-time on-chain chess game built on Somnia Testnet (chainId 50312) that use
 ## Live Demo
 [link placeholder]
 
+## Deploy Your Own
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSuryaXyz-art%2Fchessonchain&project-name=chessonchain&framework=nextjs)
+
 ## Contract Address
 ChessGame: 0xF6458BAC7fBe8bad14B2752E05c109B6D3800DEd
 Network: Somnia Testnet (chainId 50312)
