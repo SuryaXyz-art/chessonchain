@@ -1,0 +1,16 @@
+{
+  "name": "chess-on-somnia",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "contracts"
+  ],
+  "devDependencies": {
+    "hardhat": "^2.22",
+    "@nomicfoundation/hardhat-toolbox": "^5",
+    "typescript": "^5",
+    "ts-node": "^10",
+    "dotenv": "^16"
+  }
+}
